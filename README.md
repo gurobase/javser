@@ -13,7 +13,7 @@ You can download JAVser by navigating to the **release** folder or by clicking [
 ### Below is the list of known issues that I intend on fixing whenever I have free time in no particular order of importance. It will be updated as new bugs are discovered and old ones get fixed.
 
 1. If you view a video and then decide to switch focus (lock and unlock your phone, minimize the app and open it again), the screen goes black and the video refuses to play until you press the back button and open it again.
-2. Using the ENTER key in the search text box will result in text "disappearing". It doesn't really disappear, it just makes a new line, because I forgot to limit it to 1 line only and the first line moves up.
+2. Using the ENTER key in the search text box will result in text "disappearing". It doesn't really disappear, it just makes a new line and the first line moves up, thus disappearing from view.
 3. Some stream providers are not working as of yet, because I didn't get to implementing them yet.
 4. The Trending tab doesn't work, because of the issues on JAVMax's developer's end, there's some problem with the API or something
 5. The favorites tab is inverted. Newest videos that you add to favorites get moved to the end of the Favorites list.
