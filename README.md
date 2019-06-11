@@ -15,6 +15,6 @@ You can download JAVser by navigating to the **release** folder or by clicking [
 1. If you view a video and then decide to switch focus (lock and unlock your phone, minimize the app and open it again), the screen goes black and the video refuses to play until you press the back button and open it again.
 2. Using the ENTER key in the search text box will result in text "disappearing". It doesn't really disappear, it just makes a new line and the first line moves up, thus disappearing from view.
 3. Some stream providers are not working as of yet, these will be added with future updates.
-4. The Trending tab doesn't work, because of the issues on JAVMax's developer's end, there's some problem with the API or something
+4. The Trending tab doesn't work, because of the issues on JAVMax's developer's end, there's some problem with the API or something.
 5. The favorites tab is inverted. Newest videos that you add to favorites get moved to the end of the Favorites list.
 6. Videos that were deleted from the original stream provider's website might sometimes crash the app upon JAVser trying to extract the direct link (This mostly happens Openload videos that were deleted). Deleted videos should be reported to JAVMax's dev by contacting him via the [JAVMax website](https://www.javmax.co/en).
