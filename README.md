@@ -6,3 +6,5 @@ It's still in beta and of course has some issues (Some stream providers are not 
 JAVser is powered by the JAVMax's API ([JAVMax website](https://www.javmax.co/en)) and has the same search functionality (if you're familiar with how searching is performed there.
 
 You can download JAVser by navigating to the **release** folder or by clicking [here](https://github.com/gurobase/javser/raw/master/release/app-release.apk)
+
+Note: The **Trending** tab is not working due to the problem on the API's end. It's not working on the Windows version either, so I am unable to fix it myself, need to wait for the JAVMax dev to fix it.
