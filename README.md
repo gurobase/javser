@@ -6,3 +6,5 @@ JAVser is a free Android app that lets you watch all your favorite JAV on your m
 It's still in beta and of course has some issues (Some stream providers are not yet working and the download option will be added later).
 
 JAVser is powered by the JavMax's API ([JavMax website](https://www.javmax.co/en)) and has the same search functionality (if you're familiar with how searching is performed there.
+
+You can download JAVser by navigating to the **releases** folder or by clicking [here](https://github.com/gurobase/javser/raw/master/release/app-release.apk)
