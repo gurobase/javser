@@ -1,4 +1,4 @@
-#MAKE SURE TO READ THIS
+# MAKE SURE TO READ THIS
 
 ![javserlogo](https://i.imgur.com/lD5FC3J.png)
 
