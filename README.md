@@ -3,10 +3,18 @@
 ![javserlogo](https://i.imgur.com/lD5FC3J.png)
 
 JAVser is a free Android app that lets you watch all your favorite JAV on your mobile device without ads.
-It's still in beta and of course has some issues (Some stream providers are not yet working and the download option will be added later. Fembed streams seem to be loading faster than Openload streams, due to the fact that Fembed streams are extracted by directly contacting the Fembed API, while openload/rapidvideo/etc. are being extracted via WebView, this will be sped up in future updates).
+It's still in beta and of course has some issues (Known issues are mentioned at the bottom).
 
 JAVser is powered by the JAVMax's API ([JAVMax website](https://www.javmax.co/en)) and has the same search functionality (if you're familiar with how searching is performed there.
 
 You can download JAVser by navigating to the **release** folder or by clicking [here](https://github.com/gurobase/javser/raw/master/release/app-release.apk)
 
-Note: The **Trending** tab is not working due to the problem on the API's end. It's not working on the Windows version either, so I am unable to fix it myself, need to wait for the JAVMax dev to fix it.
+
+### Below is the list of known issues that I intend on fixing whenever I have free time in no particular order of importance. It will be updated as new bugs are discovered and old ones get fixed.
+
+1. If you view a video and then decide to switch focus (lock and unlock your phone, minimize the app and open it again), the screen goes black and the video refuses to play until you press the back button and open it again.
+2. Using the ENTER key in the search text box will result in text "disappearing". It doesn't really disappear, it just makes a new line, because I forgot to limit it to 1 line only and the first line moves up.
+3. Some stream providers are not working as of yet, because I didn't get to implementing them yet.
+4. The Trending tab doesn't work, because of the issues on JAVMax's developer's end, there's some problem with the API or something
+5. The favorites tab is inverted. Newest videos that you add to favorites get moved to the end of the Favorites list.
+6. Videos that were deleted from the original stream provider's website might sometimes crash the app upon JAVser trying to extract the direct link (This mostly happens Openload videos that were deleted). Deleted videos should be reported to JAVMax's dev by contacting him via the [JAVMax website](https://www.javmax.co/en).
