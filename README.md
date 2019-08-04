@@ -1,5 +1,3 @@
-# MAKE SURE TO READ THIS
-
 ![javserlogo](https://i.imgur.com/lD5FC3J.png)
 
 JAVser is a free Android app that lets you watch all your favorite JAV on your mobile device without ads.
