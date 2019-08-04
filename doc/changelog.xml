@@ -1,2 +1,7 @@
+1.1.0
+Basic download option (Some stream providers are still unavailable)
+Auto-updater which can be toggled off in Settings (Clicking the "Update" button will open the releases page in your default browser window for now).
+The search text bar is now single line (pressing the Enter key won't skip a line making the next "invisible")
+Minified the .apk making is a bit smaller
 1.0
 Initial release
