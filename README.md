@@ -7,7 +7,7 @@ It's still in beta and of course has some issues (Known issues are mentioned at 
 
 JAVser is powered by the JAVMax's API ([JAVMax website](https://www.javmax.co/en)) and has the same search functionality (if you're familiar with how searching is performed there.
 
-You can download JAVser by navigating to the **releases** or by clicking [here](https://github.com/gurobase/javser/releases)
+You can download JAVser by navigating to the **releases** or by clicking [here](https://github.com/gurobase/javser/raw/master/release/app-release.apk)
 
 
 ### Below is the list of known issues that I intend on fixing whenever I have free time in no particular order of importance. It will be updated as new bugs are discovered and old ones get fixed.
