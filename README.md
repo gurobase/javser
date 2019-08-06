@@ -7,7 +7,7 @@ You can join my [Discord server](https://discord.gg/FucjVkD) to get notified abo
 
 JAVser is powered by JAVMax's API ([JAVMax website](https://www.javmax.co/en)) and has the same search functionality (if you're familiar with how searching is performed there.
 
-You can download JAVser by navigating to the **releases** or by clicking [here](https://github.com/gurobase/javser/raw/master/release/app-release.apk)
+You can download JAVser by navigating to the **releases** or by clicking [here](https://guro.cf/javser)
 
 
 ### Below is the list of known issues that I intend on fixing whenever I have free time in no particular order of importance. It will be updated as new bugs are discovered and old ones get fixed.
