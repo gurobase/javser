@@ -1,3 +1,5 @@
+1.2.2
+When you click "No, that's not it." button in the favorite actress selection dialog, the recycler view now properly clears to not carry over the list over different requests.
 1.2.1
 Splash screen was accidentally "disabled" in 1.2.0. It was restored again.
 1.2.0
