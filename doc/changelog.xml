@@ -1,3 +1,7 @@
+1.2.3
+Tanix is now supported for playback and download.
+Partial transfer to ExoPlayer instead of the default android VideoView.
+The video no longer gets corrupted whenever the video player activity pauses (either by minimizing the app or locking the phone).
 1.2.2
 When you click "No, that's not it." button in the favorite actress selection dialog, the recycler view now properly clears to not carry over the list over different requests.
 1.2.1
