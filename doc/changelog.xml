@@ -1,3 +1,10 @@
+1.3.0
+Feedback section.
+About section.
+av01 playback now works (Download option not available for now).
+Extractors were re-written.
+Small UI adjustments.
+Prompt on exit.
 1.2.3
 Tanix is now supported for playback and download.
 Partial transfer to ExoPlayer instead of the default android VideoView.
