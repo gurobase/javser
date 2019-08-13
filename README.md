@@ -15,4 +15,3 @@ You can download JAVser by navigating to the **releases** or by clicking [here](
 1. Some stream providers are not working as of yet, these will be added with future updates.
 2. The Trending tab doesn't work, because of the issues on JAVMax's developer's end, there's some problem with the API or something.
 3. The favorites tab is inverted. Newest videos that you add to favorites get moved to the end of the Favorites list.
-4. Videos that were deleted from the original stream provider's website might sometimes crash the app upon JAVser trying to extract the direct link (This mostly happens Openload videos that were deleted). Deleted videos should be reported to JAVMax's dev by contacting him via the [JAVMax website](https://www.javmax.co/en).
