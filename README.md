@@ -1,4 +1,4 @@
-![javserlogo]([https://github.com/gurobase/javser/blob/master/img/javser_logo.png])
+![javserlogo](https://github.com/gurobase/javser/blob/master/img/javser_logo.png)
 
 JAVser is a free Android app that lets you watch all your favorite JAV on your mobile device without ads.
 It's still in beta and of course has some issues (Known issues are mentioned at the bottom).
