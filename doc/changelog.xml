@@ -1,3 +1,10 @@
+3.0.0
+API - Updated the API endpoints and switched to token-based requests. (Older versions will no longer work)
+Downloads - an initial implementation of video downloading.
+Unwanted tags - add a tag to blur/hide videos containing it.
+Updated the search functionality.
+Introduced the Most Viewed section (Daily, Weekly, Monthly, All Time).
+UI Improvements.
 2.2.0
 Favorites now have collections.
 Implemented a Hot section (pulled from jav.guru).
