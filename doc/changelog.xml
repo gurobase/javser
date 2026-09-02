@@ -1,3 +1,8 @@
+3.1.0
+Add a local source reputation system: sources that are more reliable are more likely to be selected as first in line when playing a video.
+Fixed a crash when scrolling through the Hot section
+Fixed a crash when trying to close the player mid-buffer
+Added a speed tester for downloading videos.
 3.0.0
 API - Updated the API endpoints and switched to token-based requests. (Older versions will no longer work)
 Downloads - an initial implementation of video downloading.
