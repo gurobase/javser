@@ -11,3 +11,10 @@ JAVser is powered by a custom API.
 
 
 You can download JAVser by navigating to the **releases** or by clicking [here](https://javser.com/)
+
+
+Planned features:
+- Comment section for both videos and profiles.
+- UI improvements.
+- VR support.
+- 
